@@ -28,7 +28,7 @@ Bedeutungstinder ist eine interaktive Web-Anwendung, die es Benutzern ermöglich
 
 1. Klonen Sie das Repository:
    ```
-   git clone https://github.com/yourusername/bedeutungstinder.git
+   git clone https://github.com/Revisor01/bedeutungstinder.git
    cd bedeutungstinder
    ```
 
@@ -57,4 +57,4 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die `LICENSE.md`-Date
 
 Pastor Simon Luthe - mail@simonluthe.de
 
-Projekt-Link: [https://github.com/revisoren/bedeutungstinder](https://github.com/revisoren/bedeutungstinder)
+Projekt-Link: [https://github.com/Revisor01/bedeutungstinder](https://github.com/Revisor01/bedeutungstinder)
